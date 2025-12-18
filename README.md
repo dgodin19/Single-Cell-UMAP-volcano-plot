@@ -27,15 +27,15 @@ Looking up the genes in GeneCards for the DEGs in Figure 6A, Krt7 is known to be
 
 ### Figures
 
-[3b](3B.png)
+![3b](3B.png)
 
 UMAP of all cells for all conditions.
 
-[6a](6A.png)
+![6a](6A.png)
 
 Volcano plot comparing differentially expressed genes in primary tumors and progressive tumors.
 
-[6f](6F.png)
+![6f](6F.png)
 
 Bar plots of cell proportions for B.Actv, Cd8.Eff, Cd4.EM, TAM.Arg1, TAM.Cxcl13, and Tu-
 mor.Prog compared to total cells within the condition. Conditions were DR, d28+VAX, d28-Vax,
